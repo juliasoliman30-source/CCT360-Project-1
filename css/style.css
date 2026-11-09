@@ -178,7 +178,6 @@ section {
 }
 
 
-/* Page 2: detail */
 .detail-hero {
   padding-bottom: 20px;
   border-bottom: 2px solid #12152e;
@@ -268,7 +267,6 @@ section {
   gap: 15px;
 }
 
-/* Tablet / desktop: 768px and up */
 @media (min-width: 768px) {
   .hero-grid {
     grid-template-columns: 2fr 1fr;
